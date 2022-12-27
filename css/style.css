@@ -170,7 +170,7 @@ header.sticky ul li a {
 }
 
 .home {
-  background-image: url("../image/depositphotos_13520445-stock-photo-yellow-tour-bus.jpg");
+  background-image: url("../image/road.jpg");
   height: 100vh;
   background-attachment: fixed;
   background-position: center;
@@ -294,7 +294,7 @@ p {
   position: absolute;
   top: 0;
   left: 0;
-  background: #cc8c18;
+  /* background: #cc8c18; */
   width: 92%;
   height: 61vh;
   z-index: -1;
@@ -324,11 +324,14 @@ p {
   height: 50px;
   width: 100%;
 }
-
+.case {
+  padding-bottom: 15px;
+  color: inherit;
+}
 /*------------about------------*/
 /*------------wrapper------------*/
 .wrapper {
-  background-image: url("../image/w.jpg");
+  background-image: url("../image/road.jpg");
   height: 80vh;
   background-attachment: fixed;
   background-position: center;
